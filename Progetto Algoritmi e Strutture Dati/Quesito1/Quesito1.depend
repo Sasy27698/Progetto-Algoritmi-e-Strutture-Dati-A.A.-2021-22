@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1669834253 source:c:\users\sasy1\onedrive\desktop\quesito1\main.cpp
+	"Mylibrary.h"
+	"HashGraph.h"
+
+1669834446 c:\users\sasy1\onedrive\desktop\quesito1\include\mylibrary.h
+	<stdio.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+	<time.h>
+
+1669834359 c:\users\sasy1\onedrive\desktop\quesito1\include\hashgraph.h
+	"Mylibrary.h"
+	"HashTable.h"
+
+1669833062 c:\users\sasy1\onedrive\desktop\quesito1\include\hashtable.h
+	"Mylibrary.h"
+	"Nodo.h"
+
+1669834057 c:\users\sasy1\onedrive\desktop\quesito1\include\nodo.h
+	"Mylibrary.h"
+
+1669834413 source:c:\users\sasy1\onedrive\desktop\quesito1\src\hashgraph.cpp
+	"HashGraph.h"
+
+1669833062 source:c:\users\sasy1\onedrive\desktop\quesito1\src\hashtable.cpp
+	"HashTable.h"
+
+1669834071 source:c:\users\sasy1\onedrive\desktop\quesito1\src\nodo.cpp
+	"Nodo.h"
+
+1669834099 source:c:\users\sasy1\onedrive\desktop\quesito1\src\nodoll.cpp
+	"Nodo.h"
+
+1669918490 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\src\hashgraph.cpp
+	"HashGraph.h"
+
+1669834359 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\include\hashgraph.h
+	"Mylibrary.h"
+	"HashTable.h"
+
+1669924198 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\include\mylibrary.h
+	<stdio.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+	<time.h>
+
+1669914790 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\include\hashtable.h
+	"Mylibrary.h"
+	"Nodo.h"
+
+1669834057 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\include\nodo.h
+	"Mylibrary.h"
+
+1669914790 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\src\hashtable.cpp
+	"HashTable.h"
+
+1669834071 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\src\nodo.cpp
+	"Nodo.h"
+
+1669834099 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\src\nodoll.cpp
+	"Nodo.h"
+
+1669918412 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito1\main.cpp
+	"Mylibrary.h"
+	"HashGraph.h"
+

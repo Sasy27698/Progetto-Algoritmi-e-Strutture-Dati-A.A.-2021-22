@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1669836201 source:c:\users\sasy1\onedrive\desktop\quesito2\src\grafo.cpp
+	"Grafo.h"
+
+1669836233 c:\users\sasy1\onedrive\desktop\quesito2\include\grafo.h
+	"MyLibrary.h"
+	"Nodo.h"
+
+1669835758 c:\users\sasy1\onedrive\desktop\quesito2\include\mylibrary.h
+	<stdio.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+	<time.h>
+
+1669835839 c:\users\sasy1\onedrive\desktop\quesito2\include\nodo.h
+	"Mylibrary.h"
+
+1669835758 source:c:\users\sasy1\onedrive\desktop\quesito2\src\nodoll.cpp
+	"Nodo.h"
+
+1669835839 source:c:\users\sasy1\onedrive\desktop\quesito2\src\nodo.cpp
+	"Nodo.h"
+
+1669836201 source:c:\users\sasy1\onedrive\desktop\quesito2\main.cpp
+	"Mylibrary.h"
+	"Grafo.h"
+
+1669924336 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\src\grafo.cpp
+	"Grafo.h"
+
+1669924374 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\include\grafo.h
+	"MyLibrary.h"
+	"Nodo.h"
+
+1669835758 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\include\mylibrary.h
+	<stdio.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+	<time.h>
+
+1669835839 c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\include\nodo.h
+	"Mylibrary.h"
+
+1669835839 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\src\nodo.cpp
+	"Nodo.h"
+
+1669835758 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\src\nodoll.cpp
+	"Nodo.h"
+
+1669918188 source:c:\users\sasy1\onedrive\desktop\informatica\asd\progetto asd - de rosa salvatore 0124001981\quesito2\main.cpp
+	"Mylibrary.h"
+	"Grafo.h"
+
